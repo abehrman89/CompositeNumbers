@@ -1,12 +1,6 @@
 TITLE Programming Assignment #4    (Behrman_Project4.asm)
 
-; Author: Alexandra Behrman
-; Course / Project ID  CS271_400               Date: 2/19/17
-; Description: Write a program to calculate composite numbers. First, the user is instructed to enter the number of composites 
-; to be displayed, and is prompted to enter an integer in the range [1 .. 400]. The user enters a number, n, and the program 
-; verifies that n is in [1 .. 400]. If n is out of range, the user is reprompted until s/he enters a value in the specified range. 
-; The program then calculates and displays all of the composite numbers up to and including the nth composite. The results 
-; should be displayed 10 composites per line with at least 3 spaces between the numbers.
+; calculate user-requested number of composite numbers
 
 INCLUDE Irvine32.inc
 
